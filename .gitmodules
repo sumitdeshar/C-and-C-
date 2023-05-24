@@ -1,0 +1,6 @@
+[submodule "cpp-practice"]
+	path = cpp-practice
+	url = https://github.com/sumitdeshar/cpp-practice.git
+[submodule "cpp_project"]
+	path = cpp_project
+	url = https://github.com/sumitdeshar/cpp_project.git
